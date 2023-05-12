@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="1" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="com.easeMyTrip.test.TrainBookingTest">
+        <methods>
+          <include name="ModifyBtn_Test"/>
+          <include name="BookBTn_Test"/>
+          <include name="cntnueBtn_Test"/>
+          <include name="Travellerdetails_Test"/>
+          <include name="PaymentMethod_Test"/>
+          <include name="startTest"/>
+          <include name="TearDown"/>
+          <include name="endTest"/>
+          <include name="TotalPrice_Test"/>
+          <include name="SteUp"/>
+          <include name="SearchResult_Test"/>
+          <include name="SearchBtn_func_Test"/>
+          <include name="pageTitle_Test"/>
+        </methods>
+      </class> <!-- com.easeMyTrip.test.TrainBookingTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
