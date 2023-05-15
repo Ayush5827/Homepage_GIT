@@ -39,7 +39,7 @@ public TrainBookingTest() {
  	public static void startTest()
 	{
 		
-	  report = new ExtentReports( "C:\\Users\\araj\\.jenkins\\workspace\\EMT1.html",true);
+	  report = new ExtentReports( "D:\\workspace\\Homepage\\Extent Report\\EMT1.html",true);
 	}
 	
 	@AfterSuite

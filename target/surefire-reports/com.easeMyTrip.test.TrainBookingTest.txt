@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.easeMyTrip.test.TrainBookingTest
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 46.334 s <<< FAILURE! - in com.easeMyTrip.test.TrainBookingTest
-com.easeMyTrip.test.TrainBookingTest.Travellerdetails_Test  Time elapsed: 8.959 s  <<< FAILURE!
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 57.869 s <<< FAILURE! - in com.easeMyTrip.test.TrainBookingTest
+com.easeMyTrip.test.TrainBookingTest.Travellerdetails_Test  Time elapsed: 8.962 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
 	at com.easeMyTrip.test.TrainBookingTest.Travellerdetails_Test(TrainBookingTest.java:194)
 
